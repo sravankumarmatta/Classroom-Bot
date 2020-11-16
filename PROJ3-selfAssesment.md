@@ -40,7 +40,7 @@ Group 3 Self Assessment:
 || Use of syntax checkers. |4|
 || Extensive use of syntax checkers. |4|
 || Use of code coverage |4|
-|| Extensive use of code coverage |4|
+|| Extensive use of code coverage |3|
 || other automated analysis tools|4|
 || Extensive use of  other automated analysis tools|4|
 || test cases exist|4|
