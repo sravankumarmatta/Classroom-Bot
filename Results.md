@@ -33,6 +33,8 @@ Given the complexity of the application, we did not ask the lab participants to 
 
 ### Question: How was your overall experience using the bot on a scale of 1 to 5, 1 being least likely and 5 being most likely. Would you recommend its usage to others?
 
+<img src="https://i.imgur.com/0DLNil7.png" />
+
 
 ## Threats to Validity
 
