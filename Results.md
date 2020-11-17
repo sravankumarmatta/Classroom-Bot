@@ -36,5 +36,5 @@ Given the complexity of the application, we did not ask the lab participants to 
 
 ## Threats to Validity
 
-Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot.
+Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot. <br />
 There is a high chance that the reported responses from participants may not have been timed accurately during which the experiment was conducted. 
