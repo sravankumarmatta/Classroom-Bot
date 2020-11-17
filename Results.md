@@ -33,3 +33,8 @@ Given the complexity of the application, we did not ask the lab participants to 
 
 ### Question: How was your overall experience using the bot on a scale of 1 to 5, 1 being least likely and 5 being most likely. Would you recommend its usage to others?
 
+
+## Threats to Validity
+
+Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot.
+There is a high chance that the reported responses from participants may not have been timed accurately during which the experiment was conducted. 
