@@ -27,6 +27,9 @@ Given the complexity of the application, we did not ask the lab participants to 
 
 <img src="https://i.imgur.com/L4iy2PZ.png" />
 
-### Question: If the bot was relased for use, with appropriate use case, how likely are you to use this product, 1 being unlikely and 5 being very likely>
+### Question: If the bot was relased for use, with appropriate use case, how likely are you to use this product, 1 being unlikely and 5 being very likely?
 
 <img src="https://i.imgur.com/VU42YLa.png" />
+
+### Question: How was your overall experience using the bot on a scale of 1 to 5, 1 being least likely and 5 being most likely. Would you recommend its usage to others?
+
