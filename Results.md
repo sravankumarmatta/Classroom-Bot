@@ -14,7 +14,7 @@ Given the complexity of the application, we did not ask the lab participants to 
 
 <img src="https://i.imgur.com/U3wJSvJ.png" />
 * The time reported here is in minutes.
-
+As you see the minimun time reported by th participants for testing the bot is 14 mins, and the maximum time reported by the participants for testing the bot is 30 mins and the average time reported is around 22 mins.
 ### Question: Having explained the steps required to setup the bot on your machine, how much time do you expect it would take?
 
 <img src="https://i.imgur.com/ZgON2mf.png" />
