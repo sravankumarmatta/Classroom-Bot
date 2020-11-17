@@ -13,12 +13,13 @@ Given the complexity of the application, we did not ask the lab participants to 
 ### Question: How long did it take for you test the bot (Including the time taken to explain the steps required to setup the bot in lieu of actual setup)
 
 <img src="https://i.imgur.com/U3wJSvJ.png" />
+* The time reported here is in minutes.
 
 ### Question: Having explained the steps required to setup the bot on your machine, how much time do you expect it would take?
 
 <img src="https://i.imgur.com/ZgON2mf.png" />
 
-### Question: How easy is the setup on a scale of 1 to 5, 1 being the easiest adn 5 being the hardest?
+### Question: How easy is the setup on a scale of 1 to 5, 1 being the easiest and 5 being the hardest?
 
 <img src="https://i.imgur.com/gI6rkTe.png" />
 
